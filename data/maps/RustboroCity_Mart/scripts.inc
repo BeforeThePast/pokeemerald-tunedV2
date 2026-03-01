@@ -59,6 +59,10 @@ RustboroCity_Mart_Pokemart_Expanded:
 	.2byte ITEM_CALCIUM
 	.2byte ITEM_CARBOS
 	.2byte ITEM_ZINC
+	.2byte ITEM_SEA_INCENSE
+	.2byte ITEM_LAX_INCENSE
+	.2byte ITEM_LUCKY_PUNCH
+	.2byte ITEM_METAL_POWDER
 	pokemartlistend
 
 RustboroCity_Mart_EventScript_PokefanF::
