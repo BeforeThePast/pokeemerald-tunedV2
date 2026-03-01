@@ -32,6 +32,10 @@ LilycoveCity_DepartmentStore_5F_Pokemart_Dolls:
 	.2byte DECOR_PICHU_DOLL
 	.2byte DECOR_PIKACHU_DOLL
 	.2byte DECOR_MARILL_DOLL
+	.2byte DECOR_TOGEPI_DOLL
+	.2byte DECOR_CYNDAQUIL_DOLL
+	.2byte DECOR_CHIKORITA_DOLL
+	.2byte DECOR_TOTODILE_DOLL
 	.2byte DECOR_JIGGLYPUFF_DOLL
 	.2byte DECOR_DUSKULL_DOLL
 	.2byte DECOR_WYNAUT_DOLL
@@ -41,6 +45,12 @@ LilycoveCity_DepartmentStore_5F_Pokemart_Dolls:
 	.2byte DECOR_SKITTY_DOLL
 	.2byte DECOR_SWABLU_DOLL
 	.2byte DECOR_GULPIN_DOLL
+	.2byte DECOR_SNORLAX_DOLL
+	.2byte DECOR_RHYDON_DOLL
+	.2byte DECOR_LAPRAS_DOLL
+	.2byte DECOR_REGIROCK_DOLL
+	.2byte DECOR_REGISTEEL_DOLL
+	.2byte DECOR_REGICE_DOLL
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_ClerkMidLeft::
@@ -64,6 +74,12 @@ LilycoveCity_DepartmentStore_5F_Pokemart_Cushions:
 	.2byte DECOR_GRASS_CUSHION
 	.2byte DECOR_FIRE_CUSHION
 	.2byte DECOR_WATER_CUSHION
+	.2byte DECOR_RED_TENT
+	.2byte DECOR_BLUE_TENT
+	.2byte DECOR_SOLID_BOARD
+	.2byte DECOR_SLIDE
+	.2byte DECOR_FENCE_LENGTH
+	.2byte DECOR_FENCE_WIDTH
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_ClerkMidRight::
@@ -87,6 +103,13 @@ LilycoveCity_DepartmentStore_5F_Pokemart_Posters:
 	.2byte DECOR_LONG_POSTER
 	.2byte DECOR_SEA_POSTER
 	.2byte DECOR_SKY_POSTER
+	.2byte DECOR_TIRE
+	.2byte DECOR_STAND
+	.2byte DECOR_MUD_BALL
+	.2byte DECOR_BREAKABLE_DOOR
+	.2byte DECOR_SILVER_SHIELD
+	.2byte DECOR_GOLD_SHIELD
+	.2byte DECOR_SAND_ORNAMENT
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_ClerkFarRight::
@@ -111,6 +134,11 @@ LilycoveCity_DepartmentStore_5F_Pokemart_Mats:
 	.2byte DECOR_GLITTER_MAT
 	.2byte DECOR_JUMP_MAT
 	.2byte DECOR_SPIN_MAT
+	.2byte DECOR_GLASS_ORNAMENT
+	.2byte DECOR_DITTO_DOLL
+	.2byte DECOR_VENUSAUR_DOLL
+	.2byte DECOR_BLASTOISE_DOLL
+	.2byte DECOR_CHARIZARD_DOLL
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_PokefanF::
