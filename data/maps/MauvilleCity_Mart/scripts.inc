@@ -20,16 +20,16 @@ MauvilleCity_Mart_Pokemart:
 	.2byte ITEM_ANTIDOTE
 	.2byte ITEM_PARALYZE_HEAL
 	.2byte ITEM_AWAKENING
-	.2byte ITEM_X_SPEED
-	.2byte ITEM_X_ATTACK
-	.2byte ITEM_X_DEFEND
-	.2byte ITEM_GUARD_SPEC
-	.2byte ITEM_DIRE_HIT
-	.2byte ITEM_X_ACCURACY
 	.2byte ITEM_ETHER
-	.2byte ITEM_MAX_ETHER
 	.2byte ITEM_ELIXIR
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_KINGS_ROCK
+	.2byte ITEM_SILVER_POWDER
+	.2byte ITEM_AMULET_COIN
+	.2byte ITEM_CLEANSE_TAG
+	.2byte ITEM_SOUL_DEW
+	.2byte ITEM_SMOKE_BALL
+	.2byte ITEM_FOCUS_BAND
+	.2byte ITEM_LUCKY_EGG
 	pokemartlistend
 
 MauvilleCity_Mart_EventScript_ExpertM::
