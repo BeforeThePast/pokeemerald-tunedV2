@@ -17,6 +17,8 @@ LavaridgeTown_HerbShop_Pokemart:
 	.2byte ITEM_ENERGY_ROOT
 	.2byte ITEM_HEAL_POWDER
 	.2byte ITEM_REVIVAL_HERB
+	.2byte ITEM_WHITE_HERB
+	.2byte ITEM_MENTAL_HERB
 	pokemartlistend
 
 LavaridgeTown_HerbShop_EventScript_ExpertM::
