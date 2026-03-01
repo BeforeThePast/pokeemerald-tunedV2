@@ -272,7 +272,7 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_POOCHYENA"
+                "species": "SPECIES_IGGLYBUFF"
               },
               {
                 "min_level": 3,
@@ -471,7 +471,7 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_WINGULL"
+                "species": "SPECIES_PORYGON"
               },
               {
                 "min_level": 5,
@@ -704,7 +704,7 @@
               {
                 "min_level": 12,
                 "max_level": 12,
-                "species": "SPECIES_DITTO"
+                "species": "SPECIES_PLUSLE"
               },
               {
                 "min_level": 12,
@@ -719,7 +719,7 @@
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_PLUSLE"
+                "species": "SPECIES_PORYGON"
               }
             ]
           },
@@ -6166,12 +6166,12 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_ZUBAT"
+                "species": "SPECIES_PORYGON"
               },
               {
                 "min_level": 31,
                 "max_level": 31,
-                "species": "SPECIES_ZUBAT"
+                "species": "SPECIES_PORYGON"
               },
               {
                 "min_level": 32,
