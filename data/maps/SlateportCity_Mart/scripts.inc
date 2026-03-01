@@ -15,6 +15,7 @@ SlateportCity_Mart_EventScript_Clerk::
 SlateportCity_Mart_Pokemart:
 	.2byte ITEM_POKE_BALL
 	.2byte ITEM_GREAT_BALL
+	.2byte ITEM_MASTER_BALL
 	.2byte ITEM_POTION
 	.2byte ITEM_SUPER_POTION
 	.2byte ITEM_ANTIDOTE
@@ -25,6 +26,13 @@ SlateportCity_Mart_Pokemart:
 	.2byte ITEM_PP_UP
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_HARBOR_MAIL
+	.2byte ITEM_THICK_CLUB
+	.2byte ITEM_STICK
+	.2byte ITEM_RED_SCARF
+	.2byte ITEM_PINK_SCARF
+	.2byte ITEM_GREEN_SCARF
+	.2byte ITEM_YELLOW_SCARF
+	.2byte ITEM_BLUE_SCARF
 	pokemartlistend
 
 SlateportCity_Mart_EventScript_BlackBelt::
