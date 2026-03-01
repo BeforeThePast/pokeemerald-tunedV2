@@ -21,7 +21,15 @@ LavaridgeTown_Mart_Pokemart:
 	.2byte ITEM_BURN_HEAL
 	.2byte ITEM_REVIVE
 	.2byte ITEM_SUPER_REPEL
-	.2byte ITEM_X_SPEED
+	.2byte ITEM_ETHER
+	.2byte ITEM_ELIXIR
+	.2byte ITEM_RARE_CANDY
+	.2byte ITEM_SUN_STONE
+	.2byte ITEM_MOON_STONE
+	.2byte ITEM_BRIGHT_POWDER
+	.2byte ITEM_MACHO_BRACE
+	.2byte ITEM_QUICK_CLAW
+	.2byte ITEM_SOOTHE_BELL
 	pokemartlistend
 
 LavaridgeTown_Mart_EventScript_ExpertM::
