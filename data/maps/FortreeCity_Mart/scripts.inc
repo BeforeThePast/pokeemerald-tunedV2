@@ -22,6 +22,14 @@ FortreeCity_Mart_Pokemart:
 	.2byte ITEM_AWAKENING
 	.2byte ITEM_REVIVE
 	.2byte ITEM_SUPER_REPEL
+	.2byte ITEM_CHOICE_BAND
+	.2byte ITEM_METAL_COAT
+	.2byte ITEM_LEFTOVERS
+	.2byte ITEM_DRAGON_SCALE
+	.2byte ITEM_SOFT_SAND
+	.2byte ITEM_HARD_STONE
+	.2byte ITEM_MIRACLE_SEED
+	.2byte ITEM_BLACK_GLASSES
 	.2byte ITEM_WOOD_MAIL
 	pokemartlistend
 
